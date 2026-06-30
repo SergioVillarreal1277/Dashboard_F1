@@ -1,0 +1,51 @@
+﻿id_piloto,piloto,nacionalidad,edad,titulos_mundiales,escuderia,pais_origen,director,presupuesto_escuderia,aporte_patrocinadores,capital_total_escuderia,carreras_disputadas,puntos_totales,victorias,podios,mejor_resultado,posicion_campeonato,vueltas_rapidas_historicas
+1,James Anderson,United States,78,0,Red Bull,Austria,Christian Horner,354792875.86,329339755.75,684132631.61,48,244.0,3,9,1,23,3
+2,Marco Rossi,Italy,61,0,Alfa Romeo,Italia,Carlo Chiti,367857713.42,193961719.05,561819432.47,47,261.0,3,8,1,19,3
+3,David Smith,United Kingdom,54,0,Williams,Reino Unido,James Vowles,334792593.0,312129641.95,646922234.95,48,277.0,3,8,1,15,2
+4,Carlos Fernandez,Spain,38,0,Renault,Francia,Flavio Briatore,311901064.12,233940753.15,545841817.27,47,223.0,1,7,1,31,2
+5,Jean Dubois,France,71,0,Matra,Francia,Jean-Luc Lagardere,577102708.73,180717407.2,757820115.93,38,244.0,2,8,1,23,3
+6,Helmut Schmidt,Germany,94,0,BRM,Reino Unido,Tony Rudd,423171526.05,213937262.4,637108788.45,48,173.0,1,4,1,44,5
+7,Akira Tanaka,Japan,34,0,Audi,Alemania,Mattia Binotto,194486081.72,161516175.45,356002257.17,54,219.0,2,6,1,32,6
+8,Robert Williams,United Kingdom,66,1,Lotus,Reino Unido,Colin Chapman,429271264.45,283063745.1,712335009.55,47,235.0,3,5,1,30,1
+9,Miguel Santos,Brazil,47,0,Maserati,Italia,Giuseppe Moceri,445361256.18,203951719.1,649312975.28,44,238.0,3,8,1,27,3
+10,Sven Nilsson,Sweden,84,0,McLaren,Reino Unido,Andrea Stella,558252486.03,375951086.0,934203572.03,41,160.0,2,4,1,48,2
+11,Antonio Bianchi,Italy,41,0,Toro Rosso,Italia,Franz Tost,311319419.15,156292730.5,467612149.65,37,182.0,1,6,1,42,0
+12,John McGregor,United Kingdom,88,0,Cooper,Reino Unido,John Cooper,336865379.99,190729395.65,527594775.64,45,152.0,1,5,1,49,2
+13,Pedro Martinez,Spain,57,0,Benetton,Italia,Flavio Briatore,216570352.68,296519723.1,513090075.78,41,190.0,2,5,1,41,3
+14,Lucas Fontaine,France,68,0,Ligier,Francia,Guy Ligier,476176880.63,147272696.5,623449577.13,49,289.0,3,9,1,10,0
+15,Michael Schumacher,Germany,57,7,Ferrari,Italia,Frederic Vasseur,150975147.21,235643082.3,386618229.51,45,168.0,1,7,1,47,2
+16,Kimi Raikkonen,Finland,47,1,Ferrari,Italia,Frederic Vasseur,150975147.21,235643082.3,386618229.51,51,254.0,2,7,1,22,1
+17,Lewis Hamilton,United Kingdom,41,7,Mercedes,Alemania,Toto Wolff,457283087.3,328651964.95,785935052.25,44,191.0,2,6,1,40,1
+18,Fernando Alonso,Spain,45,2,Renault,Francia,Flavio Briatore,311901064.12,233940753.15,545841817.27,47,205.0,2,4,1,36,0
+19,Sebastian Vettel,Germany,39,4,Red Bull,Austria,Christian Horner,354792875.86,329339755.75,684132631.61,52,264.0,4,9,1,18,4
+20,Max Verstappen,Netherlands,29,4,Red Bull,Austria,Christian Horner,354792875.86,329339755.75,684132631.61,48,304.0,4,12,1,5,0
+21,Charles Leclerc,Monaco,29,0,Ferrari,Italia,Frederic Vasseur,150975147.21,235643082.3,386618229.51,45,314.0,3,10,1,4,2
+22,Lando Norris,United Kingdom,27,0,McLaren,Reino Unido,Andrea Stella,558252486.03,375951086.0,934203572.03,46,219.0,2,6,1,32,1
+23,George Russell,United Kingdom,28,0,Mercedes,Alemania,Toto Wolff,457283087.3,328651964.95,785935052.25,59,238.0,0,4,2,27,2
+24,Oscar Piastri,Australia,25,0,McLaren,Reino Unido,Andrea Stella,558252486.03,375951086.0,934203572.03,45,269.0,4,9,1,17,3
+25,Franco Colapinto,Argentina,23,0,Williams,Reino Unido,James Vowles,334792593.0,312129641.95,646922234.95,56,319.0,3,10,1,3,6
+26,Oliver Bearman,United Kingdom,21,0,Ferrari,Italia,Frederic Vasseur,150975147.21,235643082.3,386618229.51,38,146.0,1,5,1,50,3
+27,Andrea Kim,Canada,32,0,Jordan,Reino Unido,Eddie Jordan,169582968.81,170629587.35,340212556.16,57,304.0,4,9,1,5,2
+28,Stefano Costa,Italy,44,0,Vanwall,Reino Unido,Tony Vandervell,570498523.33,120292604.6,690791127.93,46,193.0,2,6,1,38,1
+29,Marie Laurent,France,51,0,Brawn,Reino Unido,Ross Brawn,588807709.49,156170506.7,744978216.19,44,194.0,3,5,1,37,4
+30,Henrik Johansson,Sweden,76,0,Tyrrell,Reino Unido,Ken Tyrrell,302050241.05,240296075.4,542346316.45,59,261.0,4,7,1,19,2
+31,Klaus Weber,Germany,81,0,Brabham,Reino Unido,Jack Brabham,206064432.36,372640876.3,578705308.66,53,215.0,2,5,1,34,1
+32,Juan Rodriguez,Mexico,64,0,Red Bull,Austria,Christian Horner,354792875.86,329339755.75,684132631.61,50,383.0,5,15,1,2,3
+33,Alain Prost,France,71,4,McLaren,Reino Unido,Andrea Stella,558252486.03,375951086.0,934203572.03,45,290.0,4,8,1,9,0
+34,Ayrton Senna,Brazil,66,3,McLaren,Reino Unido,Andrea Stella,558252486.03,375951086.0,934203572.03,45,287.0,2,9,1,11,1
+35,Niki Lauda,Austria,77,3,Ferrari,Italia,Frederic Vasseur,150975147.21,235643082.3,386618229.51,53,240.0,1,6,1,26,5
+36,Jackie Stewart,United Kingdom,87,3,Cooper,Reino Unido,John Cooper,336865379.99,190729395.65,527594775.64,45,259.0,2,6,1,21,1
+37,Jim Clark,United Kingdom,90,2,Lotus,Reino Unido,Colin Chapman,429271264.45,283063745.1,712335009.55,56,170.0,0,6,2,46,4
+38,Graham Hill,United Kingdom,97,2,BRM,Reino Unido,Tony Rudd,423171526.05,213937262.4,637108788.45,56,210.0,0,3,2,35,3
+39,Nigel Mansell,United Kingdom,73,1,Williams,Reino Unido,James Vowles,334792593.0,312129641.95,646922234.95,50,236.0,1,4,1,29,5
+40,Nelson Piquet,Brazil,74,3,Brabham,Reino Unido,Jack Brabham,206064432.36,372640876.3,578705308.66,44,193.0,1,4,1,38,1
+41,Mika Hakkinen,Finland,58,2,McLaren,Reino Unido,Andrea Stella,558252486.03,375951086.0,934203572.03,36,173.0,1,5,1,44,4
+42,Jenson Button,United Kingdom,46,1,Benetton,Italia,Flavio Briatore,216570352.68,296519723.1,513090075.78,50,278.0,4,9,1,14,4
+43,Rubens Barrichello,Brazil,54,0,Ferrari,Italia,Frederic Vasseur,150975147.21,235643082.3,386618229.51,47,280.0,3,10,1,13,1
+44,Gerhard Berger,Austria,67,0,Ferrari,Italia,Frederic Vasseur,150975147.21,235643082.3,386618229.51,52,284.0,4,8,1,12,3
+45,David Coulthard,United Kingdom,55,0,Williams,Reino Unido,James Vowles,334792593.0,312129641.95,646922234.95,44,292.0,1,10,1,7,4
+46,Felipe Massa,Brazil,45,0,Ferrari,Italia,Frederic Vasseur,150975147.21,235643082.3,386618229.51,42,181.0,3,5,1,43,0
+47,Valtteri Bottas,Finland,37,0,Mercedes,Alemania,Toto Wolff,457283087.3,328651964.95,785935052.25,55,292.0,4,8,1,7,4
+48,Sergio Perez,Mexico,36,0,Red Bull,Austria,Christian Horner,354792875.86,329339755.75,684132631.61,46,272.0,2,9,1,16,2
+49,Carlos Sainz,Spain,32,0,Ferrari,Italia,Frederic Vasseur,150975147.21,235643082.3,386618229.51,56,243.0,3,9,1,25,1
+50,Daniel Ricciardo,Australia,37,0,McLaren,Reino Unido,Andrea Stella,558252486.03,375951086.0,934203572.03,59,412.0,6,13,1,1,4
