@@ -1,3 +1,12 @@
+'''
+Integrantes del grupo:
+Esquivel, Kevin 8-1023-1678
+Simmons, Abigail 8-1020-2416 
+Solis, Luis 8-1026-948 
+Villarreal, Sergio 20-14-7997
+'''
+
+
 from dash import Dash, html, dcc, Input, Output
 import plotly.express as px
 import pandas as pd
