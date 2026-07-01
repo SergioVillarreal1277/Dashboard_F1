@@ -1,7 +1,7 @@
 # Dashboard de Análisis de Datos de Fórmula 1
 
 ## Descripción del Proyecto
-Este proyecto es unDasgboard interactivo desarrollado con Flask, Dash y Plotly en python. Su objetivo es visualizar métricas estadísticas y análisis de datos correspondientes a diferentes entidades de la Fórmula 1 (Pilotos, Directores, FIA, y Patrocinadores).
+Este proyecto es un Dashboard interactivo desarrollado con Flask, Dash y Plotly en python. Su objetivo es visualizar métricas estadísticas y análisis de datos correspondientes a diferentes entidades de la Fórmula 1 (Pilotos, Directores, FIA, y Patrocinadores).
 
 ## Conjunto de Datos y Tratamiento
 Las tablas de la base de datos utilizada estaban vacías, sin ningún dato cargado, por lo que utilizamos herramientas como Mockaroo y Deepseek para generar datos sintéticos por cada tabla, manteniendo la lógica y estructura de la base de datos. 
