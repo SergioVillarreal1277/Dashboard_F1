@@ -20,12 +20,8 @@ El dashboard contiene gráficas orientadas al análisis estadístico:
 
 Para ejecutar este dashboard en un entorno local, siga los siguientes pasos:
 
-## Instrucciones para Ejecución Local
-
-Para ejecutar este dashboard en un entorno local, siga los siguientes pasos:
-
 1. Clone el repositorio localmente ejecutando este comando en la terminal: `git clone https://github.com/SergioVillarreal1277/Dashboard_F1.git`
 2. Navegue al directorio del proyecto: `cd Dashboard_F1`
 3. Instale las dependencias y librerias necesarias: `pip install dash plotly pandas`
 4. Ejecute este comando en la terminal para correr el archivo: `python app.py`
-5. Abra un navegador web y acceda a la dirección http que se mostrará en la terminal despúes de ejecutar el archivo
+5. Abra un navegador web y acceda a la dirección http: `http://127.0.0.1:8050/`
